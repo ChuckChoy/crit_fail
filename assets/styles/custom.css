@@ -1,3 +1,25 @@
 .wrap{
     text-align:left;
 }
+
+.logo{
+    height: 3em;
+    width: 3em;
+}
+.wrap{
+    width: 75%;
+    float:left;
+    padding-right:10px;
+}
+
+.homepage
+{
+    font-size: 20px;
+}
+
+.stripe1{
+    background-color: #ff5f5f
+}
+.stripe2{
+    background-color:#f5c96c
+}

@@ -20,7 +20,7 @@ module.exports.routes = {
   ***************************************************************************/
 
   '/': { view: 'pages/homepage' },
-  '/homepage': { view: 'page/homepage' },
+  '/homepage': { view: 'pages/homepage' },
   '/bio': { view: 'pages/bio' },
   '/contact': { view: 'pages/contact' },
   '/gallery': { view: 'pages/gallery' },
